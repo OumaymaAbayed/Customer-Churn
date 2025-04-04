@@ -160,14 +160,5 @@ tuned_rf <- train(Churn ~ ., data = trainData, method = "rf",
 
 While the tuned model showed slight improvements in some areas, the original Random Forest model remains the best choice for predicting customer churn based on the available data.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## 🤝 Contributions
-
-Feel free to fork this repo, create an issue, or submit a pull request with your suggestions or improvements!
-
-```
-
-This README contains all necessary details for your R project, including setup, model details, evaluation, and conclusions, with emojis to enhance readability and engagement.
+## Credit
+**Kaggle link:** https://www.kaggle.com/datasets/vikramamin/customer-churn-decision-tree-and-random-forest
